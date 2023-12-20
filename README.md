@@ -1,5 +1,5 @@
 This is a set of projects that I worked on during my degree. Feel free to download anything you want!
-The zip files include all the files necessary to run the Java and Python projects (provided you have the proper IDE).
+The zip files include all the files necessary files to run the Java and Python projects (provided you have the proper IDE).
 The pdf files include screen shots and text of SQL code as well as information on the database creation process.
 
 •	Mushroom Edibility Classifier: A Jupyter Notebook written in Python that models Mushroom Classification data by using Logistic Regression to give a prediction on an inputted mushroom’s edibility. 
